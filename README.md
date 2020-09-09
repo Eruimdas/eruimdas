@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there :wave:
 
 - Currently a double major student @ Istanbul Bilgi University.
 - Working on Machine Learning, Deep Learning, Natural Language Processing
