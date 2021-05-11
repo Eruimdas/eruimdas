@@ -6,4 +6,5 @@
 
 ## Publications
 
+- [BLM-17m: A Large-Scale Dataset for Black Lives Matter Topic Detection on Twitter](https://arxiv.org/abs/2105.01331)
 - [Trajectory Tracking of a Quadcopter Using Adaptive Neuro Fuzzy Controller with Sliding Mode Learning Algorithm](https://www.researchgate.net/publication/342858394_Trajectory_Tracking_of_a_Quadcopter_Using_Adaptive_Neuro-Fuzzy_Controller_with_Sliding_Mode_Learning_Algorithm)
