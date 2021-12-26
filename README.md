@@ -1,7 +1,7 @@
 ### Hi there :wave:
 
-- Currently a double major student @ Istanbul Bilgi University.
-- Working on Machine Learning, Deep Learning, Natural Language Processing
+- I'm currently working as a Senior Machine Learning Engineer @ [Carbon Consulting](http://carbonconsulting.com/).
+- Working on Machine Learning, Deep Learning, Natural Language Processing.
 - Feel free to reach me out from: hasan.kemikk@gmail.com at any time!
 
 ## Publications
