@@ -4,6 +4,8 @@
 - Working on Machine Learning, Deep Learning, Natural Language Processing.
 - Feel free to reach me out from: hasan.kemikk@gmail.com at any time!
 
+Also, if you want you can drop a message to the [Discussion](https://github.com/Eruimdas/eruimdas/discussions/categories/guestbook) page 😇
+
 ## Publications
 
 - [BLM-17m: A Large-Scale Dataset for Black Lives Matter Topic Detection on Twitter](https://arxiv.org/abs/2105.01331)
